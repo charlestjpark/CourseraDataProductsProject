@@ -8,5 +8,5 @@ To access the Shiny App, please go through the following instructions:
 4. Launch the url in another browser window to play with the app. 
 5. To view the presentation, refer to "A Simple Prediction Model for Housing Prices.pdf". 
 
-OWing to various difficulties in launching the presentation through github.io, an alternative method was taken to 
+Owing to various difficulties in launching the presentation through github.io, an alternative method was taken to 
 publish a PDF of the slidify presentation that could have been viewed locally. 
